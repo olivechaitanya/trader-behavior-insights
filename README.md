@@ -5,6 +5,11 @@
 This project analyzes the relationship between Bitcoin's Fear/Greed Index and Hyperliquid trader performance to uncover patterns and insights that can drive smarter trading strategies.
 
 **Key Question**: How does market sentiment (Fear/Greed Index) correlate with trader performance?
+Live Application
+Streamlit Dashboard (Deployed)
+
+Use the interactive dashboard here:
+https://trader-behavior-insights-udfbxqzxeqpenabliqusjq.streamlit.app/
 
 ## 🎯 Key Findings
 
