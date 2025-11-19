@@ -148,7 +148,7 @@ This project is created for analysis and portfolio demonstration purposes.
 
 ---
 
-**Created by**: [Your Name]  
+**Created by**: Olivechaitanya  
 **Date**: 2025  
 **Purpose**: Junior Data Scientist Application - Trader Behavior Insights Analysis
 
